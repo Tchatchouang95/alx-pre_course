@@ -1,1 +1,1 @@
-Creating my first directory
+Creating my first directory and files
